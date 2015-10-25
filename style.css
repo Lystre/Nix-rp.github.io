@@ -18,7 +18,9 @@ table {
    border-collapse: collapse;
 }
 
-
+html {
+  background: black;
+}
 .boo {
   position: absolute;
   top: 50%;
